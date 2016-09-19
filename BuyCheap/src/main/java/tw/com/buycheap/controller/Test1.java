@@ -5,7 +5,12 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-
+/**
+ * 測試
+ * 
+ * @author Jarvis
+ *
+ */
 @Controller
 public class Test1 {
 	
